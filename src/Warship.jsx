@@ -9,7 +9,7 @@ import Footer from './component/footer';
 import pic from './assets/ijn_yamato.jpg';
 import Second from './component/Second';
 import Third from './component/Third';
-import map from './assets/map_japan.jpg';
+import map from './assets/map_japan.png';
 import flag from './assets/japan_flag.jpg';
 import detail1 from './assets/ijn_yamato2.jpg';
 import detail2 from './assets/ijn_yamato3.jpg';
