@@ -1,0 +1,101 @@
+
+* {
+  margin: 0%;
+  padding: 0;
+}
+
+.navbar-wrapper {
+  background-color: blue;
+}
+
+.img-style {
+  width: auto;
+  height: 495px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10%;
+}
+
+.navbar-container {
+  max-width: 900px;
+  display: flex;
+  margin: 0% auto;
+  justify-content: space-between;
+  font-size: 18px;
+  padding: 30px 0px;
+  color: white;
+}
+
+.navbar-list {
+  display: flex;
+  gap: 30px;
+}
+
+a {
+  color: white;
+}
+ 
+img {
+  width: 40px;
+  height: 40px;
+}
+
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+.text {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: justify;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0% 2%;
+  padding: 0% 2%;
+  font-size: 20px;
+  text-indent: 10%;
+  word-spacing: 5px;
+  line-height: 1.8;
+}
+
+.box {
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.map {
+  height: 400px;
+  width: auto;
+}
+
+.third {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.flag {
+  width: 450px;
+  height: 400px;
+}
+
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  width: 1500px;
+  height: 420px;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  width: auto;
+  height: 400px;
+  padding: 10px;
+}
